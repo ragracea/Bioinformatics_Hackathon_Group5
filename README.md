@@ -10,7 +10,7 @@ Sickle cell disease (SCD) is a genetic condition that affects red blood cells.
 
 Task C. Find a gene underlying the disease.
 
-The main gene underlying sickle cell disease is the β-globin gene (HBB).
+The underlying cause of sickle cell disease is a single mutation in the β-globin gene (HBB).
 
 Task D. Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
