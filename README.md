@@ -56,3 +56,4 @@ chr11_5269140_C_G_b38
 chr11_5253222_G_GT_b38
 
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
+The sickle cell anemia phenotype is caused by a cascade of molecular events initiated by the HBB gene mutation, leading to altered red blood cell membrane properties and increased cellular adhesion, ultimately resulting in vaso-occlusion and tissue damage.
