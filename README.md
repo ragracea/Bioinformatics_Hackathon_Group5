@@ -57,4 +57,6 @@ chr11_5253948_T_C_b38
 chr11_5269140_C_G_b38
 chr11_5253222_G_GT_b38
 
+[b0293145-34f6-4e29-bf2f-ff9f812f450f.txt](https://github.com/user-attachments/files/17994646/b0293145-34f6-4e29-bf2f-ff9f812f450f.txt)
+
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
