@@ -6,11 +6,11 @@ Group Members: Emily Bernabe, Taylor Nutzman, Zoe Vickery, Rachel Anderson, and 
 
 # Task B. Select a disease to study.
 
-Sickle cell disease (SCD) is a genetic condition that affects red blood cells. 
+Sickle cell disease (SCD) is a genetic condition that affects red blood cells. Symptoms, diagnosis, treatment
 
 # Task C. Find a gene underlying the disease.
 
-The underlying cause of sickle cell disease is a single mutation in the β-globin gene (HBB). The mutation is a single nucleotide change, GAG to GTG, in the sixth codon of this gene. This mutation results in an amino acid change from glutamic acid to valine, which results in the production of hemoglobin S (HbS). The HBB gene is located on chromosome 11 and codes for the β-globin protein, which is an essential component of hemoglobin. In addition to HBB, other genes can modify the appearance and severity of SCD. 
+The underlying cause of sickle cell disease is a single mutation in the β-globin gene (HBB). The mutation is a single nucleotide change, GAG to GTG, in the sixth codon of this gene. This mutation results in an amino acid change from glutamic acid to valine, which results in the production of hemoglobin S (HbS). The HBB gene is located on chromosome 11 and codes for the β-globin protein, which is an essential component of hemoglobin. In addition to HBB, other genes can modify the appearance and severity of SCD. Some of these genes include ...
 
 # Task D. Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
