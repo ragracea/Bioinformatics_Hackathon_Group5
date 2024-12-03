@@ -1,4 +1,4 @@
-[b0293145-34f6-4e29-bf2f-ff9f812f450f.txt](https://github.com/user-attachments/files/17994646/b0293145-34f6-4e29-bf2f-ff9f812f450f.txt)# Bioinformatics_Hackathon_Group5
+# Bioinformatics_Hackathon_Group5
 
 # Task A. Connect with your team.
 
