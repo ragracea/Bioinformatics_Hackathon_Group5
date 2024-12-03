@@ -10,7 +10,7 @@ Sickle cell disease (SCD) is a genetic condition that affects red blood cells.
 
 # Task C. Find a gene underlying the disease.
 
-The underlying cause of sickle cell disease is a single mutation in the β-globin gene (HBB). The mutation is a single nucleotide change, GAG to GTG, in the sixth codon of this gene. HBB is located on chromosome 11 and codes for the β-globin protein, which is an essential component of hemoglobin. 
+The underlying cause of sickle cell disease is a single mutation in the β-globin gene (HBB). The mutation is a single nucleotide change, GAG to GTG, in the sixth codon of this gene. This mutation results in an amino acid change from valine to glutamic acid, which results in the production of hemoglobin S (HbS). The HBB gene is located on chromosome 11 and codes for the β-globin protein, which is an essential component of hemoglobin. 
 
 # Task D. Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
