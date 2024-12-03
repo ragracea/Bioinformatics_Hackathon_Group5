@@ -15,6 +15,7 @@ The underlying cause of sickle cell disease is a single mutation in the β-globi
 # Task D. Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 ![IntAct Network - HBB](https://github.com/user-attachments/assets/f2e800a5-a852-40f7-b982-84bb26ac2256)
 
+[SickleCell gene interactions.pdf](https://github.com/user-attachments/files/17994703/SickleCell.gene.interactions.pdf)
 
 # Task E. Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes.
 HBB eQTLs:
