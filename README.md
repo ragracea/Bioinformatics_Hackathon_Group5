@@ -6,7 +6,7 @@ Group Members: Emily Bernabe, Taylor Nutzman, Zoe Vickery, Rachel Anderson, and 
 
 # Task B. Select a disease to study.
 
-Sickle cell disease (SCD) is a genetic condition that affects red blood cells. Symptoms, diagnosis, treatment
+Sickle cell disease (SCD) is a genetic condition that affects red blood cells. Red blood cells become rigid, crescent-shaped, or "sickled," which can block blood flow and cause episodes of severe pain, known as sickle cell crises. Common symptoms include chronic anemia, fatigue, frequent infections, delayed growth in children, and episodes of intense pain in the chest, abdomen, and joints. SCD is typically diagnosed through a blood test that detects the presence of sickle-shaped cells or abnormal hemoglobin. Treatment focuses on managing symptoms and preventing complications. Painful crises are treated with hydration, pain management, and sometimes blood transfusions. Hydroxyurea, a medication that increases the production of fetal hemoglobin, can reduce the frequency of crises. In some cases, a bone marrow or stem cell transplant may offer a potential cure. Additionally, regular screenings and vaccines are recommended to prevent infections, which are common in people with SCD. Although there is no universal cure for SCD, advances in treatment have significantly improved the quality of life for many affected individuals.
 
 # Task C. Find a gene underlying the disease.
 
