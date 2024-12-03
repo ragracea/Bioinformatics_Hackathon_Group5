@@ -42,4 +42,17 @@ chr11_5262817_G_A_b38
 chr11_5272395_A_T_b38
 chr11_5247910_C_A_b38
 
+HBG2 eQTLs:
+ENSG00000196565.15
+chr11_5259609_TA_T_b38
+chr11_5256061_C_T_b38
+chr11_5262780_T_C_b38
+chr11_5268823_C_T_b38
+chr11_5250441_C_T_b38
+chr11_5261227_A_C_b38
+chr11_5242453_C_T_b38
+chr11_5253948_T_C_b38
+chr11_5269140_C_G_b38
+chr11_5253222_G_GT_b38
+
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
