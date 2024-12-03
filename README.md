@@ -17,7 +17,16 @@ The underlying cause of sickle cell disease is a single mutation in the β-globi
 
 # Task E. Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes.
 HBB eQTLs:
-
-ENSG00000244734.4: chr11_6196858_A_G_b38
+ENSG00000244734.4: 
+chr11_6196858_A_G_b38
+chr11_6189369_T_C_b38
+chr11_6189365_C_A_b38
+chr11_6188908_A_G_b38
+chr11_6185920_C_A_b38
+chr11_6185511_C_A_b38
+chr11_6185478_A_G_b38
+chr11_6185418_T_C_b38
+chr11_6185411_G_C_b38
+chr11_6183604_A_T_b38
 
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
