@@ -15,5 +15,8 @@ The underlying cause of sickle cell disease is a single mutation in the β-globi
 # Task D. Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
 # Task E. Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes.
+HBB eQTLs:
+
+ENSG00000244734.4: chr11_6196858_A_G_b38
 
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
