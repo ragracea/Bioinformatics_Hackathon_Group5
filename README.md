@@ -61,3 +61,15 @@ chr11_5253222_G_GT_b38
 
 # Task F. Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
 We hypothesize that a point mutation in HBB will have a cascading effect on the phenotype of Sickle Cell Disease through mechanisms of vaso-occlusion, hemolysis, oxidative stress, and many more. Sickle cell disease is caused by a point mutation in the HBB gene, specifically an A to T substitution at the sixth codon. This results in the replacement of glutamic acid with valine in the β-globin protein (βG6V). The sickle-shaped cells are less flexible and can obstruct small blood vessels, leading to vaso-occlusion. This results in reduced blood flow and oxygen delivery to tissues, causing ischemia and pain. The altered structure of sickle cells makes them more fragile, leading to premature destruction (hemolysis). This chronic hemolysis results in anemia and the release of free hemoglobin into the plasma. The chronic stress conditions in SCD may lead to epigenetic changes and altered expression of other genes involved in inflammation, cell adhesion, and vascular function, contributing to the complex pathophysiology of the disease.
+
+Experiment: 
+1.) prep the cell culture from healthy individuals and sickle cell anemia patients. 
+2.) create deoxygenated conditions for the experimental groups.
+3.) Perfrom RNA sequencing to obtain a comprehensive transcriptome profile.
+4.) Use existing PPI databases (BioGRID) to construct a network of proteins interacting with HBB. 
+5.) Validate the key genes using qRT-PCR and Western blot analysis.
+6.) Perform Gene Ontology (GO) and pathway enrichment analyses on the differentially expressed genes.
+7.) In wild-type cells, use CRISPR/Cas9 to introduce the sickle cell mutation in the HBB gene.
+8.) In sickle cells, use CRISPR/Cas9 to correct the mutation.
+9.) Perform mass spectrometry-based proteomics on wild-type and sickle cell samples under both normal and deoxygenated conditions. Compare protein levels and post-translational modifications, focusing on the HBB PPI network.
+10.) Integrate transcriptomics, proteomics, and PPI data to create a comprehensive network model.
